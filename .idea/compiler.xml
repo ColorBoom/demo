@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="demogit1" />
+        <module name="demogit2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demogit1" target="1.8" />
+      <module name="demogit2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
