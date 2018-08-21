@@ -10,6 +10,7 @@
         <module name="demogit2" />
         <module name="demogit3" />
         <module name="demogit4" />
+        <module name="demogit5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="demogit2" target="1.8" />
       <module name="demogit3" target="1.8" />
       <module name="demogit4" target="1.8" />
+      <module name="demogit5" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
