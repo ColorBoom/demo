@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demogit1Application {
 
     public static void main(String[] args) {
+        System.out.println("---");
         SpringApplication.run(Demogit1Application.class, args);
     }
 }
